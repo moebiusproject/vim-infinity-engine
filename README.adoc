@@ -1,0 +1,6 @@
+== Vim syntax highlight and support files for the Infinity Engine
+
+Syntax highlighting, file detection, and other usual settings for Infinity
+Engine files.
+
+This is in the **very** early stages.
